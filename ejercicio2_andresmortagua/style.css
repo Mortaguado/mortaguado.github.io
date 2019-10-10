@@ -1,0 +1,65 @@
+@charset "utf-8";
+#reportaj {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-variant: small-caps;
+    font-weight: bolder;
+    text-align: left;
+    border-width: thick;
+}
+h4 {
+    top: -20px;
+    margin-top: -20px;
+    font-weight: 650;
+    text-align: left;
+}
+#entrada {
+    font-style: italic;
+    border-bottom-width: medium;
+    border-bottom-color: #000000;
+}
+#img1 {
+    width: 90%;
+    text-align: center;
+}
+#bloqueimagen {
+    position: relative;
+    width: 80%;
+    margin-left: 10%;
+    background-color: #474747;
+    padding-top: 20px;
+}
+h5   {
+    color: #F7F2F2;
+    padding-bottom: 8px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+#img0 {
+    width: 80%;
+    text-align: left;
+    left: 0%;
+    right: 20%;
+    margin-right: 20%;
+}
+#nota {
+    width: 70%;
+    font-weight: 500;
+    text-align: left;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    background-size: 120% 120%;
+    background-color: #000000;
+    color: #FFFFFF;
+    margin-left: 15%;
+    font-size: small;
+    border-width: thick;
+}
+footer {
+    text-align: center;
+    background-color: #606060;
+    color: #FFFFFF;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
